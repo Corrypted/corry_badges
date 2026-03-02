@@ -1,4 +1,4 @@
-# corry-logging
+# corry_badges
 
 Police Badge script open for editing! The badge script allows custom images for the photo and allows players to steal the badges and use them with the same information there.
 
