@@ -46,4 +46,4 @@ https://youtu.be/CDylAPJje4A
 6. Insert all images from `corry_badges/client/src/image` into `ox_inventory/web/images`
 
 ## Credit
-Credit to x99 for creating the base UI - I just created it for QB-Core and optimized it using ox_lib and inventory.
+Credit to x99 for creating the base UI - I just created it for QB-Core and optimized it using ox_lib and inventory. Github source: https://github.com/xBlackAttack/x99-pdbadge
